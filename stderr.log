@@ -1,0 +1,279 @@
+/home/xdbfuflb/tajheez/server.js:243
+    const ad_id = adResult.insertId; // Get the inserted ad's ID
+    ^^^^^
+
+SyntaxError: Unexpected token const
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/xdbfuflb/tajheez/server.js:243
+    const ad_id = adResult.insertId; // Get the inserted ad's ID
+    ^^^^^
+
+SyntaxError: Unexpected token const
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/xdbfuflb/tajheez/server.js:243
+    const ad_id = adResult.insertId; // Get the inserted ad's ID
+    ^^^^^
+
+SyntaxError: Unexpected token const
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/xdbfuflb/tajheez/server.js:243
+    const ad_id = adResult.insertId; // Get the inserted ad's ID
+    ^^^^^
+
+SyntaxError: Unexpected token const
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/xdbfuflb/tajheez/server.js:243
+    const ad_id = adResult.insertId; // Get the inserted ad's ID
+    ^^^^^
+
+SyntaxError: Unexpected token const
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+SyntaxError: Unexpected token 
+ in JSON at position 82
+    at JSON.parse (<anonymous>)
+    at parse (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/body-parser/lib/types/json.js:92:19)
+    at /home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (async_hooks.js:188:21)
+    at invokeCallback (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/raw-body/index.js:238:16)
+    at done (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/raw-body/index.js:287:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+SyntaxError: Unexpected token 
+ in JSON at position 82
+    at JSON.parse (<anonymous>)
+    at parse (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/body-parser/lib/types/json.js:92:19)
+    at /home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (async_hooks.js:188:21)
+    at invokeCallback (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/raw-body/index.js:238:16)
+    at done (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/raw-body/index.js:287:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error fetching categories with ads: { Error: Unknown column 'at.translated_title' in 'field list'
+    at PromisePool.query (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/mysql2/promise.js:341:22)
+    at app.get (/home/xdbfuflb/tajheez/server.js:731:39)
+    at Layer.handle [as handle_request] (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:280:10)
+    at jsonParser (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/body-parser/lib/types/json.js:113:7)
+  message: 'Unknown column \'at.translated_title\' in \'field list\'',
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sql:
+   '\n      SELECT \n          c.category_id, \n          COALESCE(ct.translated_name, c.name) AS category_name, -- Use translated category name if available\n          c.description AS category_description, \n          c.parent_category_id, \n          c.image AS category_image,\n          JSON_ARRAYAGG(\n              JSON_OBJECT(\n                  \'ad_id\', a.ad_id,\n                  \'title\', COALESCE(at.translated_title, a.title), -- Use translated ad title if available\n                  \'description\', a.description,\n                  \'price\', a.price,\n                  \'product_status\', a.product_status,\n                  \'offer_type\', a.offer_type,\n                  \'shipping_delivery_options\', a.shipping_delivery_options,\n                  \'images\', a.images,  \n                  \'post_type\', a.post_type,\n                  \'status\', a.status,\n                  \'creation_date\', a.creation_date,\n                  \'expiration_date\', a.expiration_date,\n                  \'country\', a.country,\n                  \'contact_options\', a.contact_options\n              )\n          ) AS ads\n      FROM \n          Categories c\n      LEFT JOIN \n          CategoryTranslations ct ON c.category_id = ct.category_id AND (ct.language_code = \'en\' OR ct.language_code = \'en\')\n      JOIN \n          Ads a ON c.category_id = a.category_id\n      LEFT JOIN \n          AdTranslations at ON a.ad_id = at.ad_id AND (at.language_code = \'en\' OR at.language_code = \'en\')\n      WHERE \n          c.homepage = TRUE\n      GROUP BY \n          c.category_id, c.name, c.description, c.parent_category_id, c.image\n      HAVING \n          COUNT(a.ad_id) > 0;\n    ',
+  sqlState: '42S22',
+  sqlMessage: 'Unknown column \'at.translated_title\' in \'field list\'' }
+Error fetching categories with ads: { Error: Unknown column 'at.translated_title' in 'field list'
+    at PromisePool.query (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/mysql2/promise.js:341:22)
+    at app.get (/home/xdbfuflb/tajheez/server.js:735:39)
+    at Layer.handle [as handle_request] (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:280:10)
+    at jsonParser (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/body-parser/lib/types/json.js:113:7)
+  message: 'Unknown column \'at.translated_title\' in \'field list\'',
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sql:
+   '\n      SELECT \n          c.category_id, \n          COALESCE(ct.translated_name, c.name) AS category_name, -- Use translated category name if available\n          c.description AS category_description, \n          c.parent_category_id, \n          c.image AS category_image,\n          JSON_ARRAYAGG(\n              JSON_OBJECT(\n                  \'ad_id\', a.ad_id,\n                  \'title\', COALESCE(at.translated_title, a.title), -- Use translated ad title if available\n                  \'description\', a.description,\n                  \'price\', a.price,\n                  \'product_status\', a.product_status,\n                  \'offer_type\', a.offer_type,\n                  \'shipping_delivery_options\', a.shipping_delivery_options,\n                  \'images\', a.images,  \n                  \'post_type\', a.post_type,\n                  \'status\', a.status,\n                  \'creation_date\', a.creation_date,\n                  \'expiration_date\', a.expiration_date,\n                  \'country\', a.country,\n                  \'contact_options\', a.contact_options\n              )\n          ) AS ads\n      FROM \n          Categories c\n      LEFT JOIN \n          CategoryTranslations ct ON c.category_id = ct.category_id AND (ct.language_code = \'en\' OR ct.language_code = \'en\')\n      JOIN \n          Ads a ON c.category_id = a.category_id\n      LEFT JOIN \n          AdTranslations at ON a.ad_id = at.ad_id AND (at.language_code = \'en\' OR at.language_code = \'en\')\n      WHERE \n          c.homepage = TRUE\n      GROUP BY \n          c.category_id, c.name, c.description, c.parent_category_id, c.image\n      HAVING \n          COUNT(a.ad_id) > 0;\n    ',
+  sqlState: '42S22',
+  sqlMessage: 'Unknown column \'at.translated_title\' in \'field list\'' }
+Error fetching categories with ads: { Error: Unknown column 'at.translated_title' in 'field list'
+    at PromisePool.query (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/mysql2/promise.js:341:22)
+    at app.get (/home/xdbfuflb/tajheez/server.js:735:39)
+    at Layer.handle [as handle_request] (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:280:10)
+    at jsonParser (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/body-parser/lib/types/json.js:113:7)
+  message: 'Unknown column \'at.translated_title\' in \'field list\'',
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sql:
+   '\n      SELECT \n          c.category_id, \n          COALESCE(ct.translated_name, c.name) AS category_name, -- Use translated category name if available\n          c.description AS category_description, \n          c.parent_category_id, \n          c.image AS category_image,\n          JSON_ARRAYAGG(\n              JSON_OBJECT(\n                  \'ad_id\', a.ad_id,\n                  \'title\', COALESCE(at.translated_title, a.title), -- Use translated ad title if available\n                  \'description\', a.description,\n                  \'price\', a.price,\n                  \'product_status\', a.product_status,\n                  \'offer_type\', a.offer_type,\n                  \'shipping_delivery_options\', a.shipping_delivery_options,\n                  \'images\', a.images,  \n                  \'post_type\', a.post_type,\n                  \'status\', a.status,\n                  \'creation_date\', a.creation_date,\n                  \'expiration_date\', a.expiration_date,\n                  \'country\', a.country,\n                  \'contact_options\', a.contact_options\n              )\n          ) AS ads\n      FROM \n          Categories c\n      LEFT JOIN \n          CategoryTranslations ct ON c.category_id = ct.category_id AND (ct.language_code = \'en\' OR ct.language_code = \'en\')\n      JOIN \n          Ads a ON c.category_id = a.category_id\n      LEFT JOIN \n          AdTranslations at ON a.ad_id = at.ad_id AND (at.language_code = \'en\' OR at.language_code = \'en\')\n      WHERE \n          c.homepage = TRUE\n      GROUP BY \n          c.category_id, c.name, c.description, c.parent_category_id, c.image\n      HAVING \n          COUNT(a.ad_id) > 0;\n    ',
+  sqlState: '42S22',
+  sqlMessage: 'Unknown column \'at.translated_title\' in \'field list\'' }
+Error fetching categories with ads: { Error: Unknown column 'at.translated_name' in 'field list'
+    at PromisePool.query (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/mysql2/promise.js:341:22)
+    at app.get (/home/xdbfuflb/tajheez/server.js:735:39)
+    at Layer.handle [as handle_request] (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:280:10)
+    at jsonParser (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/body-parser/lib/types/json.js:113:7)
+  message: 'Unknown column \'at.translated_name\' in \'field list\'',
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sql:
+   '\n      SELECT \n          c.category_id, \n          COALESCE(ct.translated_name, c.name) AS category_name, -- Use translated category name if available\n          c.description AS category_description, \n          c.parent_category_id, \n          c.image AS category_image,\n          JSON_ARRAYAGG(\n              JSON_OBJECT(\n                  \'ad_id\', a.ad_id,\n                  \'title\', COALESCE(at.translated_name, a.title), -- Corrected: Use the right column name from AdTranslations\n                  \'description\', a.description,\n                  \'price\', a.price,\n                  \'product_status\', a.product_status,\n                  \'offer_type\', a.offer_type,\n                  \'shipping_delivery_options\', a.shipping_delivery_options,\n                  \'images\', a.images,  \n                  \'post_type\', a.post_type,\n                  \'status\', a.status,\n                  \'creation_date\', a.creation_date,\n                  \'expiration_date\', a.expiration_date,\n                  \'country\', a.country,\n                  \'contact_options\', a.contact_options\n              )\n          ) AS ads\n      FROM \n          Categories c\n      LEFT JOIN \n          CategoryTranslations ct ON c.category_id = ct.category_id AND (ct.language_code = \'en\' OR ct.language_code = \'en\')\n      JOIN \n          Ads a ON c.category_id = a.category_id\n      LEFT JOIN \n          AdTranslations at ON a.ad_id = at.ad_id AND (at.language_code = \'en\' OR at.language_code = \'en\')\n      WHERE \n          c.homepage = TRUE\n      GROUP BY \n          c.category_id, c.name, c.description, c.parent_category_id, c.image\n      HAVING \n          COUNT(a.ad_id) > 0;\n    ',
+  sqlState: '42S22',
+  sqlMessage: 'Unknown column \'at.translated_name\' in \'field list\'' }
+Error fetching categories with ads: { Error: Unknown column 'at.translated_name' in 'field list'
+    at PromisePool.query (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/mysql2/promise.js:341:22)
+    at app.get (/home/xdbfuflb/tajheez/server.js:735:39)
+    at Layer.handle [as handle_request] (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:280:10)
+    at jsonParser (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/body-parser/lib/types/json.js:113:7)
+  message: 'Unknown column \'at.translated_name\' in \'field list\'',
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sql:
+   '\n      SELECT \n          c.category_id, \n          COALESCE(ct.translated_name, c.name) AS category_name, -- Use translated category name if available\n          c.description AS category_description, \n          c.parent_category_id, \n          c.image AS category_image,\n          JSON_ARRAYAGG(\n              JSON_OBJECT(\n                  \'ad_id\', a.ad_id,\n                  \'title\', COALESCE(at.translated_name, a.title), -- Corrected: Use the right column name from AdTranslations\n                  \'description\', a.description,\n                  \'price\', a.price,\n                  \'product_status\', a.product_status,\n                  \'offer_type\', a.offer_type,\n                  \'shipping_delivery_options\', a.shipping_delivery_options,\n                  \'images\', a.images,  \n                  \'post_type\', a.post_type,\n                  \'status\', a.status,\n                  \'creation_date\', a.creation_date,\n                  \'expiration_date\', a.expiration_date,\n                  \'country\', a.country,\n                  \'contact_options\', a.contact_options\n              )\n          ) AS ads\n      FROM \n          Categories c\n      LEFT JOIN \n          CategoryTranslations ct ON c.category_id = ct.category_id AND (ct.language_code = \'en\' OR ct.language_code = \'en\')\n      JOIN \n          Ads a ON c.category_id = a.category_id\n      LEFT JOIN \n          AdTranslations at ON a.ad_id = at.ad_id AND (at.language_code = \'en\' OR at.language_code = \'en\')\n      WHERE \n          c.homepage = TRUE\n      GROUP BY \n          c.category_id, c.name, c.description, c.parent_category_id, c.image\n      HAVING \n          COUNT(a.ad_id) > 0;\n    ',
+  sqlState: '42S22',
+  sqlMessage: 'Unknown column \'at.translated_name\' in \'field list\'' }
+Error fetching categories with ads: { Error: Unknown column 'at.translated_name' in 'field list'
+    at PromisePool.query (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/mysql2/promise.js:341:22)
+    at app.get (/home/xdbfuflb/tajheez/server.js:735:39)
+    at Layer.handle [as handle_request] (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:280:10)
+    at jsonParser (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/body-parser/lib/types/json.js:113:7)
+  message: 'Unknown column \'at.translated_name\' in \'field list\'',
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sql:
+   '\n      SELECT \n          c.category_id, \n          COALESCE(ct.translated_name, c.name) AS category_name, -- Use translated category name if available\n          c.description AS category_description, \n          c.parent_category_id, \n          c.image AS category_image,\n          JSON_ARRAYAGG(\n              JSON_OBJECT(\n                  \'ad_id\', a.ad_id,\n                  \'title\', COALESCE(at.translated_name, a.title), -- Corrected: Use the right column name from AdTranslations\n                  \'description\', a.description,\n                  \'price\', a.price,\n                  \'product_status\', a.product_status,\n                  \'offer_type\', a.offer_type,\n                  \'shipping_delivery_options\', a.shipping_delivery_options,\n                  \'images\', a.images,  \n                  \'post_type\', a.post_type,\n                  \'status\', a.status,\n                  \'creation_date\', a.creation_date,\n                  \'expiration_date\', a.expiration_date,\n                  \'country\', a.country,\n                  \'contact_options\', a.contact_options\n              )\n          ) AS ads\n      FROM \n          Categories c\n      LEFT JOIN \n          CategoryTranslations ct ON c.category_id = ct.category_id AND (ct.language_code = \'en\' OR ct.language_code = \'en\')\n      JOIN \n          Ads a ON c.category_id = a.category_id\n      LEFT JOIN \n          AdTranslations at ON a.ad_id = at.ad_id AND (at.language_code = \'en\' OR at.language_code = \'en\')\n      WHERE \n          c.homepage = TRUE\n      GROUP BY \n          c.category_id, c.name, c.description, c.parent_category_id, c.image\n      HAVING \n          COUNT(a.ad_id) > 0;\n    ',
+  sqlState: '42S22',
+  sqlMessage: 'Unknown column \'at.translated_name\' in \'field list\'' }
+Error fetching categories with ads: { Error: Unknown column 'at.translated_name' in 'field list'
+    at PromisePool.query (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/mysql2/promise.js:341:22)
+    at app.get (/home/xdbfuflb/tajheez/server.js:735:39)
+    at Layer.handle [as handle_request] (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:280:10)
+    at jsonParser (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/body-parser/lib/types/json.js:113:7)
+  message: 'Unknown column \'at.translated_name\' in \'field list\'',
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sql:
+   '\n      SELECT \n          c.category_id, \n          COALESCE(ct.translated_name, c.name) AS category_name, -- Use translated category name if available\n          c.description AS category_description, \n          c.parent_category_id, \n          c.image AS category_image,\n          JSON_ARRAYAGG(\n              JSON_OBJECT(\n                  \'ad_id\', a.ad_id,\n                  \'title\', COALESCE(at.translated_name, a.title), -- Corrected: Use the right column name from AdTranslations\n                  \'description\', a.description,\n                  \'price\', a.price,\n                  \'product_status\', a.product_status,\n                  \'offer_type\', a.offer_type,\n                  \'shipping_delivery_options\', a.shipping_delivery_options,\n                  \'images\', a.images,  \n                  \'post_type\', a.post_type,\n                  \'status\', a.status,\n                  \'creation_date\', a.creation_date,\n                  \'expiration_date\', a.expiration_date,\n                  \'country\', a.country,\n                  \'contact_options\', a.contact_options\n              )\n          ) AS ads\n      FROM \n          Categories c\n      LEFT JOIN \n          CategoryTranslations ct ON c.category_id = ct.category_id AND (ct.language_code = \'en\' OR ct.language_code = \'en\')\n      JOIN \n          Ads a ON c.category_id = a.category_id\n      LEFT JOIN \n          AdTranslations at ON a.ad_id = at.ad_id AND (at.language_code = \'en\' OR at.language_code = \'en\')\n      WHERE \n          c.homepage = TRUE\n      GROUP BY \n          c.category_id, c.name, c.description, c.parent_category_id, c.image\n      HAVING \n          COUNT(a.ad_id) > 0;\n    ',
+  sqlState: '42S22',
+  sqlMessage: 'Unknown column \'at.translated_name\' in \'field list\'' }
+Error fetching categories with ads: { Error: Unknown column 'at.translated_name' in 'field list'
+    at PromisePool.query (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/mysql2/promise.js:341:22)
+    at app.get (/home/xdbfuflb/tajheez/server.js:739:39)
+    at Layer.handle [as handle_request] (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:280:10)
+    at jsonParser (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/body-parser/lib/types/json.js:113:7)
+  message: 'Unknown column \'at.translated_name\' in \'field list\'',
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sql:
+   '\n      SELECT \n          c.category_id, \n          COALESCE(\n            (SELECT ct.translated_name FROM CategoryTranslations ct \n             WHERE ct.category_id = c.category_id AND ct.language_code = \'en\' LIMIT 1), \n            c.name\n          ) AS category_name, -- Use translated category name if available, otherwise fallback to English\n          c.description AS category_description, \n          c.parent_category_id, \n          c.image AS category_image,\n          JSON_ARRAYAGG(\n              JSON_OBJECT(\n                  \'ad_id\', a.ad_id,\n                  \'title\', COALESCE(\n                    (SELECT at.translated_name FROM AdTranslations at \n                     WHERE at.ad_id = a.ad_id AND at.language_code = \'en\' LIMIT 1), \n                    a.title\n                  ), -- Use translated ad title if available, otherwise fallback to English\n                  \'description\', a.description,\n                  \'price\', a.price,\n                  \'product_status\', a.product_status,\n                  \'offer_type\', a.offer_type,\n                  \'shipping_delivery_options\', a.shipping_delivery_options,\n                  \'images\', a.images,  \n                  \'post_type\', a.post_type,\n                  \'status\', a.status,\n                  \'creation_date\', a.creation_date,\n                  \'expiration_date\', a.expiration_date,\n                  \'country\', a.country,\n                  \'contact_options\', a.contact_options\n              )\n          ) AS ads\n      FROM \n          Categories c\n      JOIN \n          Ads a ON c.category_id = a.category_id\n      WHERE \n          c.homepage = TRUE\n      GROUP BY \n          c.category_id, c.name, c.description, c.parent_category_id, c.image\n      HAVING \n          COUNT(a.ad_id) > 0;\n    ',
+  sqlState: '42S22',
+  sqlMessage: 'Unknown column \'at.translated_name\' in \'field list\'' }
+Error fetching categories with ads: { Error: Unknown column 'at.translated_name' in 'field list'
+    at PromisePool.query (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/mysql2/promise.js:341:22)
+    at app.get (/home/xdbfuflb/tajheez/server.js:739:39)
+    at Layer.handle [as handle_request] (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:280:10)
+    at jsonParser (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/body-parser/lib/types/json.js:113:7)
+  message: 'Unknown column \'at.translated_name\' in \'field list\'',
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sql:
+   '\n      SELECT \n          c.category_id, \n          COALESCE(\n            (SELECT ct.translated_name FROM CategoryTranslations ct \n             WHERE ct.category_id = c.category_id AND ct.language_code = \'en\' LIMIT 1), \n            c.name\n          ) AS category_name, -- Use translated category name if available, otherwise fallback to English\n          c.description AS category_description, \n          c.parent_category_id, \n          c.image AS category_image,\n          JSON_ARRAYAGG(\n              JSON_OBJECT(\n                  \'ad_id\', a.ad_id,\n                  \'title\', COALESCE(\n                    (SELECT at.translated_name FROM AdTranslations at \n                     WHERE at.ad_id = a.ad_id AND at.language_code = \'en\' LIMIT 1), \n                    a.title\n                  ), -- Use translated ad title if available, otherwise fallback to English\n                  \'description\', a.description,\n                  \'price\', a.price,\n                  \'product_status\', a.product_status,\n                  \'offer_type\', a.offer_type,\n                  \'shipping_delivery_options\', a.shipping_delivery_options,\n                  \'images\', a.images,  \n                  \'post_type\', a.post_type,\n                  \'status\', a.status,\n                  \'creation_date\', a.creation_date,\n                  \'expiration_date\', a.expiration_date,\n                  \'country\', a.country,\n                  \'contact_options\', a.contact_options\n              )\n          ) AS ads\n      FROM \n          Categories c\n      JOIN \n          Ads a ON c.category_id = a.category_id\n      WHERE \n          c.homepage = TRUE\n      GROUP BY \n          c.category_id, c.name, c.description, c.parent_category_id, c.image\n      HAVING \n          COUNT(a.ad_id) > 0;\n    ',
+  sqlState: '42S22',
+  sqlMessage: 'Unknown column \'at.translated_name\' in \'field list\'' }
+Error fetching categories with ads: { Error: Unknown column 'at.translated_name' in 'field list'
+    at PromisePool.query (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/mysql2/promise.js:341:22)
+    at app.get (/home/xdbfuflb/tajheez/server.js:739:39)
+    at Layer.handle [as handle_request] (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/express/lib/router/index.js:280:10)
+    at jsonParser (/home/xdbfuflb/nodevenv/tajheez/10/lib/node_modules/body-parser/lib/types/json.js:113:7)
+  message: 'Unknown column \'at.translated_name\' in \'field list\'',
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sql:
+   '\n      SELECT \n          c.category_id, \n          COALESCE(\n            (SELECT ct.translated_name FROM CategoryTranslations ct \n             WHERE ct.category_id = c.category_id AND ct.language_code = \'en\' LIMIT 1), \n            c.name\n          ) AS category_name, -- Use translated category name if available, otherwise fallback to English\n          c.description AS category_description, \n          c.parent_category_id, \n          c.image AS category_image,\n          JSON_ARRAYAGG(\n              JSON_OBJECT(\n                  \'ad_id\', a.ad_id,\n                  \'title\', COALESCE(\n                    (SELECT at.translated_name FROM AdTranslations at \n                     WHERE at.ad_id = a.ad_id AND at.language_code = \'en\' LIMIT 1), \n                    a.title\n                  ), -- Use translated ad title if available, otherwise fallback to English\n                  \'description\', a.description,\n                  \'price\', a.price,\n                  \'product_status\', a.product_status,\n                  \'offer_type\', a.offer_type,\n                  \'shipping_delivery_options\', a.shipping_delivery_options,\n                  \'images\', a.images,  \n                  \'post_type\', a.post_type,\n                  \'status\', a.status,\n                  \'creation_date\', a.creation_date,\n                  \'expiration_date\', a.expiration_date,\n                  \'country\', a.country,\n                  \'contact_options\', a.contact_options\n              )\n          ) AS ads\n      FROM \n          Categories c\n      JOIN \n          Ads a ON c.category_id = a.category_id\n      WHERE \n          c.homepage = TRUE\n      GROUP BY \n          c.category_id, c.name, c.description, c.parent_category_id, c.image\n      HAVING \n          COUNT(a.ad_id) > 0;\n    ',
+  sqlState: '42S22',
+  sqlMessage: 'Unknown column \'at.translated_name\' in \'field list\'' }
